@@ -7,6 +7,7 @@ import javax.persistence.Table;
 @Entity
 @Table(name = "test")
 public class TestEntity {
+	private static final long serialVersionUID = 1L;
 	@Id
 	// @GeneratedValue
 	private Integer id;

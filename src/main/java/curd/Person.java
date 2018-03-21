@@ -12,7 +12,6 @@ public class Person {
 	private String name;
 	private Integer age;
 
-	// 必须要有构造函数
 	public Person() {
 	}
 
